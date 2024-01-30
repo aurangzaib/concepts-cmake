@@ -1,0 +1,14 @@
+-------------------------------------------------
+Steps
+-------------------------------------------------
+https://github.com/microsoft/vcpkg/issues/22838#issuecomment-1024334004
+https://learn.microsoft.com/en-us/vcpkg/get_started/get-started?pivots=shell-bash
+https://github.com/microsoft/cpprestsdk/issues/1270#issuecomment-767949163
+https://xtensor.readthedocs.io/en/latest/installation.html#including-xtensor-in-your-project
+https://github.com/microsoft/vscode-cmake-tools/issues/1412#issuecomment-974008828vm
+
+-------------------------------------------------
+Ubuntu on M2 Mac
+-------------------------------------------------
+https://techblog.shippio.io/how-to-run-an-ubuntu-22-04-vm-on-m1-m2-apple-silicon-9554adf4fda1
+https://mac.getutm.app/gallery/ubuntu-20-04

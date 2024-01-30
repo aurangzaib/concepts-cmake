@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.10)
+project(concepts-cmake)
+find_package(fmt CONFIG REQUIRED)
+find_package(xtensor CONFIG REQUIRED)
+add_executable(concepts-cmake main.cpp)
+target_link_libraries(concepts-cmake PRIVATE fmt::fmt)
+target_link_libraries(concepts-cmake PRIVATE xtensor)
+set(CMAKE_BUILD_TYPE Debug)
